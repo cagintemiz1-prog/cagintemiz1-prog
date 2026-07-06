@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **cagintemiz1-prog/cagintemiz1-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
