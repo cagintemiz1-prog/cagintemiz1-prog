@@ -1,9 +1,6 @@
 
 
-<!--
-**cagintemiz1-prog/cagintemiz1-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Çağın%20Temiz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Candidate%20|%20Python%20Developer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
